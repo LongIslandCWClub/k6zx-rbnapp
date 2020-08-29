@@ -4,8 +4,8 @@ The **rbnapp** package provides an enhanced Reverse Beacon Network (RBN)
 client that adds some useful features to the standard RBN
 functionality. 
 
-This repository is the executable application respository. The *source
-code* is contained in the **k6zx-rbn* repository.
+This repository is the executable application respository. The source
+code is contained in the *k6zx-rbn* repository.
 
 
 ## Table of Contents

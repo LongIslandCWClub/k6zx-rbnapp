@@ -50,8 +50,9 @@ executables are created from the source code using the *pyinstaller*
 Python module.  It has been tested on the following operating systems:
 
 - Linux
+- MacOS
 
-*Note: Testing on MacOS and Windows 10 is planned for the future.*
+*Note: Testing on Windows 10 is planned for the future.*
 
 
 <a name="installation"></a>
